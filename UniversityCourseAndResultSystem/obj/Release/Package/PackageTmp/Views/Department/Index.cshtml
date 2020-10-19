@@ -1,0 +1,53 @@
+﻿@model UniversityCourseAndResultSystem.Models.Department
+
+@{
+    ViewBag.Title = "Department Create";
+
+}
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<link href="~/CSS_JQuery/CSSDesign.css" rel="stylesheet" />
+
+<div class="container MarginTop50">
+    <h3 style="background-color: Highlight;color: white; text-align: center; font-style: oblique">SAVE DEPARTMENT</h3>
+    <div class="col-md-offset-1 col-md-10">
+        <div class="middlleAlign">
+
+            @using (Html.BeginForm(null, null, FormMethod.Post))
+    {
+        <div class="col-md-6" style="width: 100%">
+            @Html.LabelFor(x => x.DeptCode, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            @Html.TextBoxFor(x => x.DeptCode, htmlAttributes: new { @class = "form-control" })
+
+            @Html.ValidationMessageFor(x => x.DeptCode)<br />
+
+            @Html.LabelFor(x => x.DeptName, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            @Html.TextBoxFor(x => x.DeptName, htmlAttributes: new { @class = "form-control" })
+
+            @Html.ValidationMessageFor(x => x.DeptName)<br />
+        </div>
+
+
+        <p align="center" style="padding-left:150px">
+            <button class="btn btn-success">Save</button>
+        </p>
+}
+            <h4 style="background-color: Yellow;color: green; text-align: center; font-style: oblique">@ViewBag.Message</h4>
+        </div>
+       
+    </div>
+</div>
+@{
+    if (@ViewBag.Message != "")
+    {
+        <script language="javascript">
+                    alert(@ViewBag.Message);
+        </script>
+    }
+
+}
+ 
+

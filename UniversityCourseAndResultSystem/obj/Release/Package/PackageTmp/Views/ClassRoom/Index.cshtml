@@ -1,0 +1,98 @@
+﻿@model UniversityCourseAndResultSystem.Models.ClassRoomAllocation
+@{
+    ViewBag.Title = "Allocate Classrooms";
+}
+
+<script src="~/Scripts/jquery-3.2.1.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<link href="~/CSS_JQuery/CSSDesign.css" rel="stylesheet" />
+
+<div class="container MarginTop100">
+    <h3 style="background-color: Highlight;color: white; text-align: center; font-style: oblique">ALLOCATE CLASSROOM</h3>
+    <div class="col-md-offset-1 col-md-10">
+        <div class="middlleAlign">
+
+
+            @using (Html.BeginForm(null, null, FormMethod.Post))
+    {
+        <div class="col-md-6" style="width: 100%">
+            @Html.LabelFor(x => x.DepartmentId, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.DropDownListFor(x => x.DepartmentId, new SelectList(ViewBag.Departments, "Value", "Text"), htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.DepartmentId, "", new { @class = "text-danger" })
+            @Html.Label("Course", htmlAttributes: new { @class = "control-label col-md-2" })
+            <select name="CourseId" id="CourseId" style="width: 100%; height: 35px">
+                <option value="">---Select---</option>
+            </select>
+            @Html.ValidationMessageFor(x => x.CourseId, "", new { @class = "text-danger" })
+            @Html.LabelFor(x => x.RoomNoId, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.DropDownListFor(x => x.RoomNoId, new SelectList(ViewBag.ClassRooms, "Value", "Text"), htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.RoomNoId, "", new { @class = "text-danger" })
+            @Html.LabelFor(x => x.SevenDayWeekId, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.DropDownListFor(x => x.SevenDayWeekId, new SelectList(ViewBag.Days, "Value", "Text"), htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.SevenDayWeekId, "", new { @class = "text-danger" })
+
+            @Html.LabelFor(x => x.TimeFrom, htmlAttributes: new { @class = "control-label col-md-3" })
+            @Html.TextBoxFor(x => x.TimeFrom, htmlAttributes: new { @class = "form-control", @id = "TimeFrom", @name = "TimeFrom", @type = "time" })
+            @Html.ValidationMessageFor(x => x.TimeFrom, "", new { @class = "text-danger" })
+            @Html.LabelFor(x => x.TimeTo, htmlAttributes: new { @class = "control-label col-md-3" })
+            @Html.TextBoxFor(x => x.TimeTo, htmlAttributes: new { @class = "form-control", @id = "TimeTo", @name = "TimeTo", @type = "time" })
+            @Html.ValidationMessageFor(x => x.TimeTo, "", new { @class = "text-danger" })
+            <br />
+        </div>
+
+        <p align="right">
+            <button class="btn btn-success">Save</button>
+        </p>
+
+}
+
+            <h4 style="background-color: Yellow;color: green; text-align: center; font-style: oblique">@ViewBag.Message</h4>
+
+        </div>
+
+
+    </div>
+
+</div>
+
+@{
+    if (@ViewBag.Message != "")
+    {
+        <script language="javascript">
+                    alert(@ViewBag.Message);
+        </script>
+    }
+
+}
+
+ 
+<script type="text/javascript"> 
+    $(document).ready(function () {
+        $("#DepartmentId").change(function () {
+            var deptId = $("#DepartmentId").val();
+            $("#CourseId").empty();
+
+            $("#CourseId").append('<option value= "">---Select---</option>');
+
+            var json = {
+                departmentId: deptId
+
+            };
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetAllCoursesByDeptId", "Course")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    $.each(data, function (key, value) {
+                        $("#CourseId").append('<option value=' + value.Id + '>' + value.CourseCode + '</option>');
+
+                    });
+
+                }
+            });
+        });
+    });
+
+</script>

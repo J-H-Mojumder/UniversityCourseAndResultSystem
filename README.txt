@@ -1,0 +1,1 @@
+This is a University course and result management system

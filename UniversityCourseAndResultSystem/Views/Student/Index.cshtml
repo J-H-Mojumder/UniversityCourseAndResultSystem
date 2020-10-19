@@ -1,0 +1,72 @@
+﻿@model UniversityCourseAndResultSystem.Models.Student
+@{
+    //Layout = null;
+    ViewBag.Title = "Register Student";
+}
+
+
+<div class="container MarginTop50">
+    <h2 style="background-color: Highlight;color: white; text-align: center; font-style: oblique">REGISTER STUDENT</h2>
+    <h4>@ViewBag.Message</h4>
+    <div class="col-md-offset-1 col-md-10">
+        <div class="middlleAlign">
+
+            @using (Html.BeginForm(null, null, FormMethod.Post))
+            {
+            @*<div class="col-md-6" style="width: 100%">*@
+            <p align="left">
+                @Html.LabelFor(x => x.StudentName, htmlAttributes: new { @class = "control-label col-md-3" })
+                @Html.TextBoxFor(x => x.StudentName, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.StudentName)
+                @Html.LabelFor(x => x.StudentEmail, htmlAttributes: new { @class = "control-label col-md-3" })
+                @Html.TextBoxFor(x => x.StudentEmail, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.StudentEmail)
+                @Html.LabelFor(x => x.StudentContactNo, htmlAttributes: new { @class = "control-label col-md-3" })
+                @Html.TextBoxFor(x => x.StudentContactNo, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.StudentContactNo)
+                @Html.LabelFor(x => x.StudentAddDate, htmlAttributes: new { @class = "control-label col-md-3" })
+                <input type="text" name="StudentAddDate" id="datepicker" data-date-format="yyyy-dd-mm" readonly="readonly" class="form-control" />
+                @Html.LabelFor(x => x.StudentAddress, htmlAttributes: new { @class = "control-label col-md-3" })
+                @Html.TextAreaFor(x => x.StudentAddress, htmlAttributes: new { @class = "form-control" })
+
+                @Html.LabelFor(x => x.DepartmentId, htmlAttributes: new { @class = "control-label col-md-3" })
+                @Html.DropDownListFor(x => x.DepartmentId, new SelectList(ViewBag.Departments, "Value", "Text"), htmlAttributes: new { @class = "form-control" })
+
+                @Html.ValidationMessageFor(x => x.DepartmentId, "", new { @class = "text-danger" }) <br />
+            </p>
+            @*</div>*@
+             
+                <p align="right">
+                    <button class="btn btn-success">Register</button>
+                </p>
+            }
+        </div>
+    </div>
+
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+
+
+<script>
+    $(function () {
+        $("#datepicker").datepicker({
+            autoclose: true,
+            todayHighlight: true
+        }).datepicker('update', new Date());
+    });
+
+</script>
+
+@{
+    if (@ViewBag.Message != "")
+    {
+        <script language="javascript">
+                    alert(@ViewBag.Message);
+        </script>
+    }
+
+}
+
+

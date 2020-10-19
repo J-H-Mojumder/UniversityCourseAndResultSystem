@@ -1,0 +1,66 @@
+﻿@model UniversityCourseAndResultSystem.Models.Teacher
+@{
+    ViewBag.Title = "Save Teacher";
+}
+<div class="container MarginTop50">
+    <h2 style="background-color: Highlight;color: white; text-align: center; font-style: oblique">TEACHER INFORMATION</h2>
+    <div class="col-md-offset-1 col-md-10">
+        <div class="middlleAlign">
+
+            @using (Html.BeginForm(null, null, FormMethod.Post))
+    {
+        <div class="col-md-6" style="width: 100%">
+            @Html.LabelFor(x => x.TeacherName, htmlAttributes: new { @class = "control-label col-md-4" })
+            @Html.TextBoxFor(x => x.TeacherName, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.TeacherName)
+            <br />
+
+            @Html.LabelFor(x => x.TeacherEmail, htmlAttributes: new { @class = "control-label col-md-4" })
+            @Html.TextBoxFor(x => x.TeacherEmail, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.TeacherEmail)
+            <br />
+            @Html.LabelFor(x => x.TeacherContactNo, htmlAttributes: new { @class = "control-label col-md-4" })
+            @Html.TextBoxFor(x => x.TeacherContactNo, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.TeacherContactNo)
+            <br />
+
+            @Html.LabelFor(x => x.TeacherAddress, htmlAttributes: new { @class = "control-label col-md-4" })
+            @Html.TextAreaFor(x => x.TeacherAddress, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.TeacherAddress)
+
+            @Html.LabelFor(x => x.TeacherDesignationId, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.DropDownListFor(x => x.TeacherDesignationId, new SelectList(ViewBag.Designation, "Value", "Text"), htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.TeacherDesignationId, "", new { @class = "text-danger" })
+            @Html.LabelFor(x => x.TeacherDepartmentId, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            @Html.DropDownListFor(x => x.TeacherDepartmentId, new SelectList(ViewBag.Departments, "Value", "Text"), htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.TeacherDepartmentId, "", new { @class = "text-danger" })
+            <br />
+            @Html.LabelFor(x => x.TeacherCredit, htmlAttributes: new { @class = "control-label col-md-4" })
+            @Html.TextBoxFor(x => x.TeacherCredit, htmlAttributes: new { @class = "form-control" })
+            <span>@Html.ValidationMessageFor(x => x.TeacherCredit) </span><br />
+
+        </div>
+
+        <br />
+        <p align="right" style="margin-right:5px">
+            <button class="btn btn-success">Save</button>
+        </p>
+}
+            <h4 style="background-color: Yellow;color: green; text-align: center; font-style: oblique">@ViewBag.Message</h4>
+        </div>
+    </div>
+   
+</div>
+
+@{
+    if (@ViewBag.Message != "")
+    {
+        <script language="javascript">
+                    alert(@ViewBag.Message);
+        </script>
+    }
+
+}
+
+ 

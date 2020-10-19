@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Unallocate all Classrooms";
+}
+<script type="text/javascript">
+    function UnassignConfirm() {
+        var ans = confirm("Are You Sure to Unallocated All Class Rooms?");
+        if (ans === true) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+</script>
+<div class="container MarginTop100">
+    <h3 style="background-color: Highlight;color: white; text-align: center; font-style: oblique">UNALLOCATE ALL CLASSROOMS</h3>
+    <div class="col-md-offset-3 col-md-6">
+        <div class="middlleAlign">
+            <br />
+            @using (Html.BeginForm(null, null, FormMethod.Post, new { onsubmit = "return UnassignConfirm()" }))
+    {
+        <p align="center">
+            <input type="submit" id="unallocatedClassRoom" class="btn btn-success" name="unallocatedClassRoom" value="Unallocate ClassRooms">
+        </p>
+
+}
+            @*<h4 style="background-color: Yellow;color: green; text-align: center; font-style: oblique">@ViewBag.Message</h4>*@
+        </div>
+    </div>
+  
+</div>
+
+ 
+@{
+    if (@ViewData["Message"] != "")
+    {
+        <script language="javascript">
+            alert('@ViewData["Message"]');
+        </script>
+    }
+}
+ 

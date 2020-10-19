@@ -1,0 +1,145 @@
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\ApplicationInsights.config
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.dll.config
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.pdb
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Antlr3.Runtime.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Web.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.ApplicationInsights.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Newtonsoft.Json.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.EJ2.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.Licensing.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Helpers.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Mvc.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Optimization.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Razor.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Deployment.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Razor.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\WebGrease.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Newtonsoft.Json.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.EJ2.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Helpers.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Mvc.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Optimization.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Razor.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Deployment.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Razor.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Antlr3.Runtime.pdb
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.ApplicationInsights.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Web.xml
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.csproj.CoreCompileInputs.cache
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.pdb
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\AjaxControlToolkit.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\itextsharp.dll
+E:\BITM Problem Solve\Final Project University Management\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\itextsharp.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\ApplicationInsights.config
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.dll.config
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.pdb
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\AjaxControlToolkit.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Antlr3.Runtime.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\itextsharp.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Newtonsoft.Json.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.EJ2.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.Licensing.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Helpers.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Mvc.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Optimization.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Razor.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\WebGrease.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\itextsharp.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Newtonsoft.Json.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.EJ2.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Helpers.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Mvc.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Optimization.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Razor.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.csprojAssemblyReference.cache
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.csproj.CoreCompileInputs.cache
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.csproj.CopyComplete
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.dll
+C:\Users\Masum's Computer\Desktop\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.pdb
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\ApplicationInsights.config
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.dll.config
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\UniversityCourseAndResultSystem.pdb
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\AjaxControlToolkit.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Antlr3.Runtime.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\itextsharp.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Web.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.ApplicationInsights.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Newtonsoft.Json.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.EJ2.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.Licensing.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Helpers.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Mvc.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Optimization.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Razor.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Deployment.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Razor.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\WebGrease.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\itextsharp.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Newtonsoft.Json.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Syncfusion.EJ2.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Helpers.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Mvc.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Optimization.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.Razor.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Deployment.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\System.Web.WebPages.Razor.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Antlr3.Runtime.pdb
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.ApplicationInsights.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\bin\Microsoft.AI.Web.xml
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.csprojAssemblyReference.cache
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.csproj.CoreCompileInputs.cache
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.csproj.CopyComplete
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.dll
+D:\__Study\Projects\BITM - dot net\UMS and Database\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\UniversityCourseAndResultSystem\obj\Debug\UniversityCourseAndResultSystem.pdb

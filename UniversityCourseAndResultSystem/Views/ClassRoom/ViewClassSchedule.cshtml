@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "View Class Routine";
+}
+<link href="~/Content/DataTables/css/jquery.dataTables.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+<link href="~/CSS_JQuery/CSSDesign.css" rel="stylesheet" />
+<br />
+<br />
+
+<div class="container sm50" style="width: 100%;  ">
+    <h3 style="background-color: Highlight;color: white; text-align: center; font-style: oblique">VIEW CLASS SCHEDULE AND ROOM ALLOCATION INFORMATION</h3>
+    <div class="row design table">
+        <div class="col-md-13">
+
+            <div class="form-group">
+
+                @Html.Label("Department ", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-4" style="width: 50%">
+                    @Html.DropDownList("Department", new SelectList(ViewBag.Departments, "Value", "Text"), htmlAttributes: new { @class = "form-control" })<br />
+
+                </div>
+                <br />
+
+            </div>
+
+            <table id="dataTable" class="dataTable">
+                <thead>
+                    <tr>
+                        <th style="width: 20%">Course Code</th>
+                        <th style="width: 30%">Course Title</th>
+                        <th style="width: 50%">Schedule Info</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script>
+    var table = $('#dataTable').DataTable();
+    $(document).ready(function () {
+        $("#Department").change(function () {
+
+            var deptId = $("#Department").val();
+            table.clear().draw(false);
+            var json = {
+                departmentId: deptId
+            };
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetAllClassSchedule", "ClassRoom")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    $("#dataTable").show();
+
+                    table.clear().draw(false);
+                    $.each(data, function (key, value) {
+                        table.row.add([
+                                value.CourseCode, value.CourseName, value.ScheduleInfo]
+                        ).draw(false);
+                    });
+
+                }
+            });
+
+        });
+    });
+</script>
