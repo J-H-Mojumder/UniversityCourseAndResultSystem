@@ -6,7 +6,7 @@ This is a University course and result management system. Here we can organize U
 5.	Register students and enroll courses
 6.	Save students result and view them
 7.	Unassign all classrooms and all courses
-I have used MVC (Model-view-controller) model here to develop the system. So, codes are pretty organized and easy to work with. There are 3 folders named ‘models’, ‘views’ and ‘controllers’.
+I have used **MVC (Model-view-controller)** model here to develop the system. So, codes are pretty organized and easy to work with. There are 3 folders named ‘models’, ‘views’ and ‘controllers’.
 
 **Models** contains all the data object structures and all the declarations and definitions. That means all classes are defined in this folder.
 
